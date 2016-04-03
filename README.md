@@ -20,3 +20,12 @@ Do you want to continue? [Y/n] Y
 sudo ln /dev/null /dev/raw1394
 gem install ruby-opencv
 
+git clone https://github.com/vulture0902/khmergeek-lesson-02.git lesson-opencv
+cd lesson-opencv
+ruby sample.rb
+
+そうすると、output.jpgというファイルが作成される。これは色が白と黒だけのモノクロになっている。
+
+[![Gyazo](https://gyazo.com/b044583a0c7f202b5c771331a38d6c30)](https://gyazo.com/b044583a0c7f202b5c771331a38d6c30)
+
+https://gyazo.com/b044583a0c7f202b5c771331a38d6c30
