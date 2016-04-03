@@ -1,9 +1,0 @@
-sudo apt-get update
-sudo apt-get install libopencv-dev
-Do you want to continue? [Y/n] Y
-
-sudo ln /dev/null /dev/raw1394
-
-gem install ruby-opencv
-
-
