@@ -26,6 +26,7 @@ ruby sample.rb
 
 そうすると、output.jpgというファイルが作成される。これは色が白と黒だけのモノクロになっている。
 
-[![Gyazo](https://gyazo.com/b044583a0c7f202b5c771331a38d6c30)](https://gyazo.com/b044583a0c7f202b5c771331a38d6c30)
+[![Gyazo](https://gyazo.com/b044583a0c7f202b5c771331a38d6c30.gif)](https://gyazo.com/b044583a0c7f202b5c771331a38d6c30)
 
+https://gyazo.com/b044583a0c7f202b5c771331a38d6c30
 https://gyazo.com/b044583a0c7f202b5c771331a38d6c30
