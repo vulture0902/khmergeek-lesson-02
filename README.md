@@ -23,16 +23,28 @@ https://c9.io/
 cd khmergeek-lesson-02/
 ```
 
+```
 sudo apt-get update
+```
+
+```
 sudo apt-get install libopencv-dev
+```
 Do you want to continue? [Y/n] Y
 
+```
 sudo ln /dev/null /dev/raw1394
-gem install ruby-opencv
+```
 
+```
+gem install ruby-opencv
+```
+
+```
 git clone https://github.com/vulture0902/khmergeek-lesson-02.git lesson-opencv
 cd lesson-opencv
 ruby sample.rb
+```
 
 បន្ទាប់មកឯកសារនេះត្រូវបានបង្កើត output.jpg នោះ។ នេះបានក្លាយជាប៍នតែប៉ុណ្ណោះខ្មៅគូល័និងស។
 
