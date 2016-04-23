@@ -1,6 +1,10 @@
 # khmergeek-lesson-02
 # របៀបដំឡើង opencv ទៅក្នុងប្រព័ន្ធ (linux) ។
 
+[![Gyazo](https://gyazo.com/b044583a0c7f202b5c771331a38d6c30.gif)](https://gyazo.com/b044583a0c7f202b5c771331a38d6c30)
+
+Let's install opencv!
+
 [![Gyazo](https://i.gyazo.com/74818b244b288658ce934c1973e4a76f.png)](https://gyazo.com/74818b244b288658ce934c1973e4a76f)
 [![Gyazo](https://i.gyazo.com/d562bbf34891251e8368225ed9d81698.png)](https://gyazo.com/d562bbf34891251e8368225ed9d81698)
 [![Gyazo](https://i.gyazo.com/36bd50e39671e7b8cc815045821f8198.png)](https://gyazo.com/36bd50e39671e7b8cc815045821f8198)
