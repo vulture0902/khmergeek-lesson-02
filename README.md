@@ -1,7 +1,5 @@
 # khmergeek-lesson-02
 
-cloud9は、Webブラウザでプログラミングができる基本的には無料のWebサービスです。
-
 
 [![Gyazo](https://i.gyazo.com/74818b244b288658ce934c1973e4a76f.png)](https://gyazo.com/74818b244b288658ce934c1973e4a76f)
 [![Gyazo](https://i.gyazo.com/d562bbf34891251e8368225ed9d81698.png)](https://gyazo.com/d562bbf34891251e8368225ed9d81698)
@@ -24,7 +22,7 @@ git clone https://github.com/vulture0902/khmergeek-lesson-02.git lesson-opencv
 cd lesson-opencv
 ruby sample.rb
 
-そうすると、output.jpgというファイルが作成される。これは色が白と黒だけのモノクロになっている。
+បន្ទាប់មកឯកសារនេះត្រូវបានបង្កើត output.jpg នោះ។ នេះបានក្លាយជាប៍នតែប៉ុណ្ណោះខ្មៅគូល័និងស។
 
 [![Gyazo](https://gyazo.com/b044583a0c7f202b5c771331a38d6c30.gif)](https://gyazo.com/b044583a0c7f202b5c771331a38d6c30)
 
