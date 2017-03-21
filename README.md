@@ -41,7 +41,7 @@ gem install ruby-opencv
 ```
 
 ```
-git clone https://github.com/vulture0902/khmergeek-lesson-02.git lesson-opencv
+git clone https://github.com/vulture0902/khmergeek-lesson-ruby-01-opencv.git lesson-opencv
 cd lesson-opencv
 ruby sample.rb
 ```
